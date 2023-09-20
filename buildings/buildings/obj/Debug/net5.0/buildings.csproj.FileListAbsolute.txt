@@ -1,0 +1,16 @@
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.exe
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.deps.json
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.runtimeconfig.json
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.runtimeconfig.dev.json
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.dll
+D:\Projects\buildings\buildings\bin\Debug\net5.0\buildings.pdb
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.csproj.AssemblyReference.cache
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.AssemblyInfoInputs.cache
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.AssemblyInfo.cs
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.csproj.CoreCompileInputs.cache
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.dll
+D:\Projects\buildings\buildings\obj\Debug\net5.0\refint\buildings.dll
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.pdb
+D:\Projects\buildings\buildings\obj\Debug\net5.0\buildings.genruntimeconfig.cache
+D:\Projects\buildings\buildings\obj\Debug\net5.0\ref\buildings.dll
